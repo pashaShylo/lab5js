@@ -1,0 +1,13 @@
+.header {
+    width: 100%;
+    background-color: bisque;
+    text-align: center;
+}
+.header__headline1 {
+    padding-top: 10px;
+    color: rgb(0, 93, 93);
+}
+.header__headline2 {
+    padding-top: 30px;
+    color: rgb(0, 93, 93);
+}
